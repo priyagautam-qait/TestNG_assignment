@@ -1,0 +1,7 @@
+<suite name="SuiteName" data-provider-thread-count="3" >
+    <test name=" Tests">
+        <classes>
+            <class name="org.qait.testng_assignment.Testng_email_Test"></class>
+        </classes>
+    </test>
+</suite>
